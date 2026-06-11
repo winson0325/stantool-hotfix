@@ -1,0 +1,6102 @@
+[
+  {
+    "id": "3837",
+    "title": "男神 3837 &#8211; 太陽的孩子",
+    "contestId": "1785",
+    "totalOriginal": 7392,
+    "finalValid": 279,
+    "dailyStats": [
+      {
+        "date": "2026-05-08",
+        "originalCount": 6,
+        "ipDeducted": 0,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te"
+        ],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-09",
+        "originalCount": 23,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-10",
+        "originalCount": 16,
+        "ipDeducted": 0,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te"
+        ],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-11",
+        "originalCount": 12,
+        "ipDeducted": 0,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te"
+        ],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-12",
+        "originalCount": 32,
+        "ipDeducted": 0,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te"
+        ],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-13",
+        "originalCount": 32,
+        "ipDeducted": 0,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te"
+        ],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-14",
+        "originalCount": 27,
+        "ipDeducted": 10,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te"
+        ],
+        "ipDetails": {
+          "123.194.191.153": 10
+        }
+      },
+      {
+        "date": "2026-05-15",
+        "originalCount": 126,
+        "ipDeducted": 101,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te"
+        ],
+        "ipDetails": {
+          "123.194.191.153": 88,
+          "118.231.128.107": 13
+        }
+      },
+      {
+        "date": "2026-05-16",
+        "originalCount": 191,
+        "ipDeducted": 185,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te"
+        ],
+        "ipDetails": {
+          "123.194.191.153": 185
+        }
+      },
+      {
+        "date": "2026-05-17",
+        "originalCount": 69,
+        "ipDeducted": 58,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te"
+        ],
+        "ipDetails": {
+          "123.194.191.153": 58
+        }
+      },
+      {
+        "date": "2026-05-18",
+        "originalCount": 256,
+        "ipDeducted": 242,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te"
+        ],
+        "ipDetails": {
+          "27.52.38.146": 71,
+          "123.194.191.153": 171
+        }
+      },
+      {
+        "date": "2026-05-19",
+        "originalCount": 79,
+        "ipDeducted": 69,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te"
+        ],
+        "ipDetails": {
+          "123.194.191.153": 69
+        }
+      },
+      {
+        "date": "2026-05-20",
+        "originalCount": 53,
+        "ipDeducted": 45,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te"
+        ],
+        "ipDetails": {
+          "123.194.191.153": 45
+        }
+      },
+      {
+        "date": "2026-05-21",
+        "originalCount": 17,
+        "ipDeducted": 12,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te"
+        ],
+        "ipDetails": {
+          "123.194.191.153": 12
+        }
+      },
+      {
+        "date": "2026-05-22",
+        "originalCount": 76,
+        "ipDeducted": 70,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {
+          "39.12.121.242": 17,
+          "123.194.191.153": 53
+        }
+      },
+      {
+        "date": "2026-05-23",
+        "originalCount": 104,
+        "ipDeducted": 99,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te"
+        ],
+        "ipDetails": {
+          "123.194.191.153": 99
+        }
+      },
+      {
+        "date": "2026-05-24",
+        "originalCount": 88,
+        "ipDeducted": 85,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te"
+        ],
+        "ipDetails": {
+          "123.194.191.153": 85
+        }
+      },
+      {
+        "date": "2026-05-25",
+        "originalCount": 23,
+        "ipDeducted": 17,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te"
+        ],
+        "ipDetails": {
+          "123.194.191.153": 17
+        }
+      },
+      {
+        "date": "2026-05-26",
+        "originalCount": 45,
+        "ipDeducted": 40,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te"
+        ],
+        "ipDetails": {
+          "123.194.191.153": 40
+        }
+      },
+      {
+        "date": "2026-05-27",
+        "originalCount": 262,
+        "ipDeducted": 256,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te"
+        ],
+        "ipDetails": {
+          "123.194.191.153": 256
+        }
+      },
+      {
+        "date": "2026-05-28",
+        "originalCount": 748,
+        "ipDeducted": 723,
+        "emailDeducted": 17,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te",
+          "test3hu3ciwv6u@test.com",
+          "test9jqtmzbbvm@test.com",
+          "testk5swazr80q@test.com",
+          "testza70ulyi69@test.com",
+          "test1sru8wx07r@test.com",
+          "test62lgzugnvp@test.com",
+          "test8qlchapwk6@test.com",
+          "testx2i17zy5dn@test.com",
+          "testwbpci0fuig@test.com",
+          "test3qp9ta162o@test.com",
+          "testhbg30f0gyo@test.com",
+          "testcagglrymby@test.com",
+          "testduazwu6tpd@test.com",
+          "test7rsnlo36ka@test.com",
+          "testwognb0fvo5@test.com",
+          "testientz9i2cq@test.com"
+        ],
+        "ipDetails": {
+          "123.194.191.153": 723
+        }
+      },
+      {
+        "date": "2026-05-29",
+        "originalCount": 1244,
+        "ipDeducted": 1231,
+        "emailDeducted": 7,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te",
+          "testvbsuer73sy@test.com",
+          "testrads1bgv1s@test.com",
+          "test9g6tthllb7@test.com",
+          "testg5oz7v5w2n@test.com",
+          "test9sbgsl7jb9@test.com",
+          "testobzmwws9wf@test.com"
+        ],
+        "ipDetails": {
+          "123.194.191.153": 1231
+        }
+      },
+      {
+        "date": "2026-05-30",
+        "originalCount": 1368,
+        "ipDeducted": 1363,
+        "emailDeducted": 2,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te",
+          "testmcz0ufmxvg@test.com"
+        ],
+        "ipDetails": {
+          "123.194.191.153": 1363
+        }
+      },
+      {
+        "date": "2026-05-31",
+        "originalCount": 1950,
+        "ipDeducted": 1943,
+        "emailDeducted": 2,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te",
+          "test710o0red0a@test.com"
+        ],
+        "ipDetails": {
+          "123.194.191.153": 1943
+        }
+      },
+      {
+        "date": "2026-06-01",
+        "originalCount": 325,
+        "ipDeducted": 323,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "test6ny68y8tqq@test.com"
+        ],
+        "ipDetails": {
+          "123.194.191.153": 323
+        }
+      },
+      {
+        "date": "2026-06-02",
+        "originalCount": 191,
+        "ipDeducted": 186,
+        "emailDeducted": 2,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te",
+          "testff7em70dc4@test.com"
+        ],
+        "ipDetails": {
+          "123.194.191.153": 186
+        }
+      },
+      {
+        "date": "2026-06-03",
+        "originalCount": 4,
+        "ipDeducted": 0,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te"
+        ],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-04",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te"
+        ],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-05",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te"
+        ],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-06",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-07",
+        "originalCount": 4,
+        "ipDeducted": 0,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te"
+        ],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-08",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-09",
+        "originalCount": 5,
+        "ipDeducted": 0,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te"
+        ],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-10",
+        "originalCount": 4,
+        "ipDeducted": 0,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te"
+        ],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "3834",
+    "title": "女神 3834 &#8211; 解放吧！陽光沙灘Go",
+    "contestId": "1647",
+    "totalOriginal": 464,
+    "finalValid": 270,
+    "dailyStats": [
+      {
+        "date": "2026-05-08",
+        "originalCount": 6,
+        "ipDeducted": 0,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te"
+        ],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-09",
+        "originalCount": 21,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-10",
+        "originalCount": 16,
+        "ipDeducted": 0,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te"
+        ],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-11",
+        "originalCount": 12,
+        "ipDeducted": 0,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te"
+        ],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-12",
+        "originalCount": 32,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-13",
+        "originalCount": 41,
+        "ipDeducted": 0,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te"
+        ],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-14",
+        "originalCount": 28,
+        "ipDeducted": 10,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te"
+        ],
+        "ipDetails": {
+          "123.194.191.153": 10
+        }
+      },
+      {
+        "date": "2026-05-15",
+        "originalCount": 82,
+        "ipDeducted": 56,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te"
+        ],
+        "ipDetails": {
+          "123.194.191.153": 37,
+          "118.231.128.107": 19
+        }
+      },
+      {
+        "date": "2026-05-16",
+        "originalCount": 4,
+        "ipDeducted": 0,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te"
+        ],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-17",
+        "originalCount": 6,
+        "ipDeducted": 0,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te"
+        ],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-18",
+        "originalCount": 12,
+        "ipDeducted": 0,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te"
+        ],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-19",
+        "originalCount": 8,
+        "ipDeducted": 0,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te"
+        ],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-20",
+        "originalCount": 7,
+        "ipDeducted": 0,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te"
+        ],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-21",
+        "originalCount": 4,
+        "ipDeducted": 0,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te"
+        ],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-22",
+        "originalCount": 5,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-23",
+        "originalCount": 6,
+        "ipDeducted": 0,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te"
+        ],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-24",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te"
+        ],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-25",
+        "originalCount": 4,
+        "ipDeducted": 0,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te"
+        ],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-26",
+        "originalCount": 4,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-27",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-28",
+        "originalCount": 4,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-29",
+        "originalCount": 7,
+        "ipDeducted": 0,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te"
+        ],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-30",
+        "originalCount": 4,
+        "ipDeducted": 0,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te"
+        ],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-31",
+        "originalCount": 6,
+        "ipDeducted": 0,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te"
+        ],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-01",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-02",
+        "originalCount": 4,
+        "ipDeducted": 0,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te"
+        ],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-03",
+        "originalCount": 4,
+        "ipDeducted": 0,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te"
+        ],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-04",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te"
+        ],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-05",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-06",
+        "originalCount": 5,
+        "ipDeducted": 0,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te"
+        ],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-07",
+        "originalCount": 4,
+        "ipDeducted": 0,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te"
+        ],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-08",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-09",
+        "originalCount": 110,
+        "ipDeducted": 103,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te"
+        ],
+        "ipDetails": {
+          "49.218.241.1": 103
+        }
+      },
+      {
+        "date": "2026-06-10",
+        "originalCount": 4,
+        "ipDeducted": 0,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te"
+        ],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "3914",
+    "title": "女神 3914 &#8211; 把日子浪費在馬爾地夫的藍",
+    "contestId": "1647",
+    "totalOriginal": 3040,
+    "finalValid": 266,
+    "dailyStats": [
+      {
+        "date": "2026-05-09",
+        "originalCount": 6,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-10",
+        "originalCount": 10,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-11",
+        "originalCount": 30,
+        "ipDeducted": 0,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "maggie@kgi.com.tw"
+        ],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-12",
+        "originalCount": 34,
+        "ipDeducted": 0,
+        "emailDeducted": 2,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te",
+          "maggie@kgi.com.tw"
+        ],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-13",
+        "originalCount": 72,
+        "ipDeducted": 16,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "maggie@kgi.com.tw"
+        ],
+        "ipDetails": {
+          "27.247.35.90": 16
+        }
+      },
+      {
+        "date": "2026-05-14",
+        "originalCount": 43,
+        "ipDeducted": 26,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {
+          "27.247.35.90": 26
+        }
+      },
+      {
+        "date": "2026-05-15",
+        "originalCount": 131,
+        "ipDeducted": 101,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "maggie@kgi.com.tw"
+        ],
+        "ipDetails": {
+          "27.247.35.90": 87,
+          "39.12.233.23": 14
+        }
+      },
+      {
+        "date": "2026-05-16",
+        "originalCount": 138,
+        "ipDeducted": 110,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "maggie@kgi.com.tw"
+        ],
+        "ipDetails": {
+          "27.247.35.90": 110
+        }
+      },
+      {
+        "date": "2026-05-17",
+        "originalCount": 71,
+        "ipDeducted": 65,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {
+          "27.247.35.90": 65
+        }
+      },
+      {
+        "date": "2026-05-18",
+        "originalCount": 108,
+        "ipDeducted": 95,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {
+          "27.247.35.90": 95
+        }
+      },
+      {
+        "date": "2026-05-19",
+        "originalCount": 7,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-20",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-21",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-22",
+        "originalCount": 287,
+        "ipDeducted": 280,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {
+          "49.214.8.188": 99,
+          "49.214.1.105": 181
+        }
+      },
+      {
+        "date": "2026-05-23",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-26",
+        "originalCount": 458,
+        "ipDeducted": 454,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {
+          "101.8.250.44": 454
+        }
+      },
+      {
+        "date": "2026-05-27",
+        "originalCount": 721,
+        "ipDeducted": 719,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {
+          "101.8.250.44": 719
+        }
+      },
+      {
+        "date": "2026-05-28",
+        "originalCount": 856,
+        "ipDeducted": 855,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {
+          "49.216.253.86": 855
+        }
+      },
+      {
+        "date": "2026-05-29",
+        "originalCount": 50,
+        "ipDeducted": 47,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {
+          "49.216.253.86": 47
+        }
+      },
+      {
+        "date": "2026-05-31",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-04",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-09",
+        "originalCount": 9,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4048",
+    "title": "女神 4048 &#8211; 海島限定色🏝️",
+    "contestId": "1647",
+    "totalOriginal": 166,
+    "finalValid": 166,
+    "dailyStats": [
+      {
+        "date": "2026-05-14",
+        "originalCount": 32,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-15",
+        "originalCount": 14,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-16",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-17",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-18",
+        "originalCount": 5,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-19",
+        "originalCount": 9,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-20",
+        "originalCount": 4,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-21",
+        "originalCount": 13,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-22",
+        "originalCount": 5,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-23",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-24",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-25",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-26",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-27",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-28",
+        "originalCount": 8,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-29",
+        "originalCount": 4,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-30",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-31",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-01",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-02",
+        "originalCount": 9,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-03",
+        "originalCount": 10,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-04",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-05",
+        "originalCount": 9,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-06",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-07",
+        "originalCount": 7,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-09",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-10",
+        "originalCount": 15,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "3994",
+    "title": "男神 3994 &#8211; 夕陽.貝殼與我😌",
+    "contestId": "1785",
+    "totalOriginal": 161,
+    "finalValid": 160,
+    "dailyStats": [
+      {
+        "date": "2026-05-11",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-12",
+        "originalCount": 5,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-13",
+        "originalCount": 9,
+        "ipDeducted": 0,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "dally6617@gmail.cok"
+        ],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-14",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-15",
+        "originalCount": 4,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-16",
+        "originalCount": 6,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-17",
+        "originalCount": 5,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-18",
+        "originalCount": 4,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-19",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-20",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-21",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-22",
+        "originalCount": 5,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-23",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-24",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-25",
+        "originalCount": 4,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-26",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-27",
+        "originalCount": 5,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-28",
+        "originalCount": 5,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-29",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-30",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-31",
+        "originalCount": 4,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-01",
+        "originalCount": 5,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-02",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-03",
+        "originalCount": 5,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-04",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-05",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-06",
+        "originalCount": 9,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-07",
+        "originalCount": 21,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-08",
+        "originalCount": 10,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-09",
+        "originalCount": 11,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-10",
+        "originalCount": 8,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "3885",
+    "title": "男神 3885 &#8211; LUX之父子倆的珍貴回憶",
+    "contestId": "1785",
+    "totalOriginal": 143,
+    "finalValid": 143,
+    "dailyStats": [
+      {
+        "date": "2026-05-09",
+        "originalCount": 11,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-10",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-11",
+        "originalCount": 4,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-12",
+        "originalCount": 4,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-13",
+        "originalCount": 4,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-14",
+        "originalCount": 6,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-15",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-16",
+        "originalCount": 5,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-17",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-18",
+        "originalCount": 5,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-19",
+        "originalCount": 7,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-20",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-21",
+        "originalCount": 4,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-22",
+        "originalCount": 4,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-23",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-24",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-25",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-26",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-27",
+        "originalCount": 5,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-28",
+        "originalCount": 7,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-29",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-30",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-31",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-01",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-02",
+        "originalCount": 4,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-03",
+        "originalCount": 4,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-04",
+        "originalCount": 6,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-05",
+        "originalCount": 6,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-06",
+        "originalCount": 6,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-07",
+        "originalCount": 5,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-08",
+        "originalCount": 4,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-09",
+        "originalCount": 5,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-10",
+        "originalCount": 5,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4015",
+    "title": "女神 4015 &#8211; 日落與草帽之間",
+    "contestId": "1647",
+    "totalOriginal": 136,
+    "finalValid": 136,
+    "dailyStats": [
+      {
+        "date": "2026-05-12",
+        "originalCount": 4,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-13",
+        "originalCount": 7,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-14",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-15",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-16",
+        "originalCount": 6,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-17",
+        "originalCount": 5,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-18",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-19",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-20",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-21",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-22",
+        "originalCount": 5,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-23",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-24",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-25",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-26",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-27",
+        "originalCount": 5,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-28",
+        "originalCount": 4,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-29",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-30",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-31",
+        "originalCount": 4,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-01",
+        "originalCount": 4,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-02",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-03",
+        "originalCount": 5,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-04",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-05",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-06",
+        "originalCount": 5,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-07",
+        "originalCount": 14,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-08",
+        "originalCount": 9,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-09",
+        "originalCount": 10,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-10",
+        "originalCount": 8,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "3876",
+    "title": "男神 3876 &#8211; 裸男與海",
+    "contestId": "1785",
+    "totalOriginal": 88,
+    "finalValid": 88,
+    "dailyStats": [
+      {
+        "date": "2026-05-09",
+        "originalCount": 11,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-10",
+        "originalCount": 11,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-11",
+        "originalCount": 10,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-12",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-13",
+        "originalCount": 8,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-14",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-15",
+        "originalCount": 5,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-16",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-17",
+        "originalCount": 4,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-18",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-19",
+        "originalCount": 6,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-20",
+        "originalCount": 6,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-21",
+        "originalCount": 5,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-22",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-23",
+        "originalCount": 4,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-24",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-25",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-26",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-29",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4157",
+    "title": "女神 4157 &#8211; 我的PAI餐標=HB+泡麵",
+    "contestId": "1647",
+    "totalOriginal": 44,
+    "finalValid": 44,
+    "dailyStats": [
+      {
+        "date": "2026-05-29",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-30",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-31",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-01",
+        "originalCount": 11,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-02",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-03",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-05",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-06",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-09",
+        "originalCount": 15,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-10",
+        "originalCount": 5,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4009",
+    "title": "男神 4009 &#8211; 浮出睡眠的屁屁偵探",
+    "contestId": "1785",
+    "totalOriginal": 36,
+    "finalValid": 36,
+    "dailyStats": [
+      {
+        "date": "2026-05-11",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-13",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-17",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-22",
+        "originalCount": 8,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-24",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-25",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-26",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-27",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-30",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-31",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-02",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-03",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-05",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-06",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-08",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-09",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-10",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4175",
+    "title": "男神 4175 &#8211; 一柱晴天",
+    "contestId": "1785",
+    "totalOriginal": 34,
+    "finalValid": 34,
+    "dailyStats": [
+      {
+        "date": "2026-06-01",
+        "originalCount": 11,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-02",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-03",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-05",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-06",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-09",
+        "originalCount": 13,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-10",
+        "originalCount": 5,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4292",
+    "title": "男神 4292 &#8211; 馬爾地夫限定版",
+    "contestId": "1785",
+    "totalOriginal": 29,
+    "finalValid": 28,
+    "dailyStats": [
+      {
+        "date": "2026-06-08",
+        "originalCount": 21,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-09",
+        "originalCount": 8,
+        "ipDeducted": 0,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "jaxkdjsnsn@gmial.com"
+        ],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4039",
+    "title": "女神 4039 &#8211; 鏡粒了",
+    "contestId": "1647",
+    "totalOriginal": 25,
+    "finalValid": 25,
+    "dailyStats": [
+      {
+        "date": "2026-05-13",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-14",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-15",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-17",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-18",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-19",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-20",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-22",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-23",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-24",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-25",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-27",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-29",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-30",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-31",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-05",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-08",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-09",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-10",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4045",
+    "title": "男神 4045 &#8211; 寶貝球",
+    "contestId": "1785",
+    "totalOriginal": 24,
+    "finalValid": 24,
+    "dailyStats": [
+      {
+        "date": "2026-05-13",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-14",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-15",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-17",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-18",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-19",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-20",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-22",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-23",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-24",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-25",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-27",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-29",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-30",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-31",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-05",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-08",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-09",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-10",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "3923",
+    "title": "女神 3923 &#8211; 與你共沐的藍色時光",
+    "contestId": "1647",
+    "totalOriginal": 23,
+    "finalValid": 23,
+    "dailyStats": [
+      {
+        "date": "2026-05-09",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-10",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-11",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-12",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-14",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-15",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-16",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-18",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-24",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-25",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-28",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-30",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-31",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-01",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-02",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-04",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "3917",
+    "title": "女神 3917 &#8211; Ocean therapy",
+    "contestId": "1647",
+    "totalOriginal": 19,
+    "finalValid": 19,
+    "dailyStats": [
+      {
+        "date": "2026-05-11",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-15",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-17",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-18",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-19",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-22",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-28",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-08",
+        "originalCount": 8,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-09",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4098",
+    "title": "女神 4098 &#8211; 終於有八塊肌了 😎😎",
+    "contestId": "1647",
+    "totalOriginal": 19,
+    "finalValid": 19,
+    "dailyStats": [
+      {
+        "date": "2026-05-20",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-21",
+        "originalCount": 7,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-23",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-25",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-02",
+        "originalCount": 4,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-06",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4072",
+    "title": "男神 4072 &#8211; 浪濤之王",
+    "contestId": "1785",
+    "totalOriginal": 18,
+    "finalValid": 18,
+    "dailyStats": [
+      {
+        "date": "2026-05-17",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-25",
+        "originalCount": 6,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-29",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-30",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-01",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-02",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-03",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-06",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-07",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-09",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "3964",
+    "title": "男神 3964 &#8211; 踩到海滑倒",
+    "contestId": "1785",
+    "totalOriginal": 17,
+    "finalValid": 17,
+    "dailyStats": [
+      {
+        "date": "2026-05-10",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-11",
+        "originalCount": 5,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-12",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-16",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-18",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-28",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-04",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-08",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "3882",
+    "title": "女神 3882 &#8211; 倒映的畫面，不只是風景🇲🇻🔆",
+    "contestId": "1647",
+    "totalOriginal": 16,
+    "finalValid": 16,
+    "dailyStats": [
+      {
+        "date": "2026-05-08",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-09",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-10",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-11",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-12",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-14",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-16",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-21",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-26",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-28",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "3888",
+    "title": "男神 3888 &#8211; 讓馬爾地夫的魚見見世面",
+    "contestId": "1785",
+    "totalOriginal": 16,
+    "finalValid": 16,
+    "dailyStats": [
+      {
+        "date": "2026-05-08",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-09",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-10",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-11",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-12",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-14",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-16",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-21",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-26",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-28",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "3920",
+    "title": "女神 3920 &#8211; 焦糖女神",
+    "contestId": "1647",
+    "totalOriginal": 15,
+    "finalValid": 15,
+    "dailyStats": [
+      {
+        "date": "2026-05-10",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-02",
+        "originalCount": 8,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-05",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-08",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4108",
+    "title": "女神 4108 &#8211; 馬爾地夫無邊際泳池，專治各種『放不下』——包括小孩和泳衣。",
+    "contestId": "1647",
+    "totalOriginal": 15,
+    "finalValid": 15,
+    "dailyStats": [
+      {
+        "date": "2026-05-23",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-24",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-25",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-26",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-27",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-28",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-29",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-31",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-02",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-04",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-08",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-09",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4114",
+    "title": "男神 4114 &#8211; 一隻高傲的天鵝,與牠不穿衣服的坐騎",
+    "contestId": "1785",
+    "totalOriginal": 15,
+    "finalValid": 15,
+    "dailyStats": [
+      {
+        "date": "2026-05-23",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-24",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-25",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-26",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-27",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-28",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-29",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-31",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-02",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-04",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-08",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-09",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "3929",
+    "title": "男神 3929 &#8211; 藍色假期",
+    "contestId": "1785",
+    "totalOriginal": 14,
+    "finalValid": 14,
+    "dailyStats": [
+      {
+        "date": "2026-05-09",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-10",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-11",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-12",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-13",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-14",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-16",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-18",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-25",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-28",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-30",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-31",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-02",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-04",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "3828",
+    "title": "女神 3828 &#8211; 馬爾地夫大肚婆🇲🇻",
+    "contestId": "1647",
+    "totalOriginal": 13,
+    "finalValid": 13,
+    "dailyStats": [
+      {
+        "date": "2026-05-08",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-09",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-10",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-12",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-13",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-14",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-15",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-17",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-19",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-21",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "3997",
+    "title": "女神 3997 &#8211; 瓶中的蔚藍",
+    "contestId": "1647",
+    "totalOriginal": 13,
+    "finalValid": 13,
+    "dailyStats": [
+      {
+        "date": "2026-05-11",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-12",
+        "originalCount": 4,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-13",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-16",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-18",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4018",
+    "title": "男神 4018 &#8211; 神雕俠侶",
+    "contestId": "1785",
+    "totalOriginal": 13,
+    "finalValid": 13,
+    "dailyStats": [
+      {
+        "date": "2026-05-12",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-13",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-14",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-16",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-18",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-19",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-21",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-22",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-26",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-28",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-03",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-08",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "3849",
+    "title": "男神 3849 &#8211; 大海雄風",
+    "contestId": "1785",
+    "totalOriginal": 12,
+    "finalValid": 12,
+    "dailyStats": [
+      {
+        "date": "2026-05-08",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-09",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-11",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-14",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-15",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-17",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-18",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-22",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-23",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-24",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-26",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-02",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4101",
+    "title": "女神 4101 &#8211; 你想看正面嗎",
+    "contestId": "1647",
+    "totalOriginal": 10,
+    "finalValid": 10,
+    "dailyStats": [
+      {
+        "date": "2026-05-21",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-22",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-23",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-24",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-27",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-30",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-08",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "3861",
+    "title": "女神 3861 &#8211; 露（ㄓㄜ）一露（ㄓㄜ）",
+    "contestId": "1647",
+    "totalOriginal": 9,
+    "finalValid": 9,
+    "dailyStats": [
+      {
+        "date": "2026-05-08",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-13",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-14",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-15",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-17",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-19",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-21",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-22",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-26",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "3935",
+    "title": "男神 3935 &#8211; 狼若回頭不是報恩就是抱抱",
+    "contestId": "1785",
+    "totalOriginal": 11,
+    "finalValid": 9,
+    "dailyStats": [
+      {
+        "date": "2026-05-10",
+        "originalCount": 7,
+        "ipDeducted": 0,
+        "emailDeducted": 2,
+        "invalidEmails": [
+          "alex64132002@yahoo.comtw",
+          "chiaching@mail.to.ylc.edu.tw"
+        ],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-13",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-14",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-21",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-22",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4189",
+    "title": "男神 4189 &#8211; 愛在馬爾地夫",
+    "contestId": "1785",
+    "totalOriginal": 9,
+    "finalValid": 9,
+    "dailyStats": [
+      {
+        "date": "2026-06-02",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-03",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-04",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-05",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-06",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-07",
+        "originalCount": 3,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-09",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "3926",
+    "title": "男神 3926 &#8211; 性感甜甜圈",
+    "contestId": "1785",
+    "totalOriginal": 8,
+    "finalValid": 8,
+    "dailyStats": [
+      {
+        "date": "2026-05-13",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-14",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-15",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-17",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-19",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-21",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4120",
+    "title": "女神 4120 &#8211; 兩朵小花",
+    "contestId": "1647",
+    "totalOriginal": 8,
+    "finalValid": 8,
+    "dailyStats": [
+      {
+        "date": "2026-05-24",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-27",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-28",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-30",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-31",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-03",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-05",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-09",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "3870",
+    "title": "女神 3870 &#8211; 那個夏天",
+    "contestId": "1647",
+    "totalOriginal": 7,
+    "finalValid": 7,
+    "dailyStats": [
+      {
+        "date": "2026-05-09",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-10",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-11",
+        "originalCount": 5,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4054",
+    "title": "女神 4054 &#8211; 日落解放",
+    "contestId": "1647",
+    "totalOriginal": 4,
+    "finalValid": 4,
+    "dailyStats": [
+      {
+        "date": "2026-05-14",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-15",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-16",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-19",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4105",
+    "title": "男神 4105 &#8211; 別人拍海 ~我拍到米其林",
+    "contestId": "1785",
+    "totalOriginal": 4,
+    "finalValid": 4,
+    "dailyStats": [
+      {
+        "date": "2026-05-23",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-09",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-10",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4117",
+    "title": "女神 4117 &#8211; 海天之間，我赤裸，卻從未如此完整。",
+    "contestId": "1647",
+    "totalOriginal": 4,
+    "finalValid": 4,
+    "dailyStats": [
+      {
+        "date": "2026-05-27",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-03",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-08",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-10",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4154",
+    "title": "男神 4154 &#8211; 馬爾地夫放空計畫：度蜜月度到剩拖鞋",
+    "contestId": "1785",
+    "totalOriginal": 4,
+    "finalValid": 4,
+    "dailyStats": [
+      {
+        "date": "2026-05-28",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-29",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-03",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-10",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4245",
+    "title": "女神 4245 &#8211; 上空飄浮早餐😎",
+    "contestId": "1647",
+    "totalOriginal": 4,
+    "finalValid": 4,
+    "dailyStats": [
+      {
+        "date": "2026-06-06",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-07",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-09",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-10",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "3864",
+    "title": "女神 3864 &#8211; 浮屍",
+    "contestId": "1647",
+    "totalOriginal": 3,
+    "finalValid": 3,
+    "dailyStats": [
+      {
+        "date": "2026-05-09",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-10",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-12",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "3867",
+    "title": "男神 3867 &#8211; Rex",
+    "contestId": "1785",
+    "totalOriginal": 3,
+    "finalValid": 3,
+    "dailyStats": [
+      {
+        "date": "2026-05-08",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-09",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-12",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "3902",
+    "title": "男神 3902 &#8211; 我與龜頭",
+    "contestId": "1785",
+    "totalOriginal": 3,
+    "finalValid": 3,
+    "dailyStats": [
+      {
+        "date": "2026-05-09",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-11",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "3905",
+    "title": "女神 3905 &#8211; 藍色，是這趟旅行的語言",
+    "contestId": "1647",
+    "totalOriginal": 3,
+    "finalValid": 3,
+    "dailyStats": [
+      {
+        "date": "2026-05-08",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-09",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-04",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "3932",
+    "title": "男神 3932 &#8211; 光屁屁戰隊",
+    "contestId": "1785",
+    "totalOriginal": 3,
+    "finalValid": 3,
+    "dailyStats": [
+      {
+        "date": "2026-05-15",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-26",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4163",
+    "title": "女神 4163 &#8211; 碧海藍天",
+    "contestId": "1647",
+    "totalOriginal": 3,
+    "finalValid": 3,
+    "dailyStats": [
+      {
+        "date": "2026-05-31",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-01",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-03",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4248",
+    "title": "男神 4248 &#8211; 夜晚的氣氛泳池也別有一番風味🍑",
+    "contestId": "1785",
+    "totalOriginal": 3,
+    "finalValid": 3,
+    "dailyStats": [
+      {
+        "date": "2026-06-07",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-09",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-10",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "3873",
+    "title": "女神 3873 &#8211; Luna",
+    "contestId": "1647",
+    "totalOriginal": 2,
+    "finalValid": 2,
+    "dailyStats": [
+      {
+        "date": "2026-05-08",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-12",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "3894",
+    "title": "男神 3894 &#8211; 不專業健美💪",
+    "contestId": "1785",
+    "totalOriginal": 2,
+    "finalValid": 2,
+    "dailyStats": [
+      {
+        "date": "2026-05-08",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-04",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "3955",
+    "title": "女神 3955 &#8211; 魚",
+    "contestId": "1647",
+    "totalOriginal": 4,
+    "finalValid": 2,
+    "dailyStats": [
+      {
+        "date": "2026-05-25",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-26",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te"
+        ],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-27",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 1,
+        "invalidEmails": [
+          "vul3u83@yahoo.com.te"
+        ],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "3958",
+    "title": "男神 3958 &#8211; 醍醐灌頂",
+    "contestId": "1785",
+    "totalOriginal": 2,
+    "finalValid": 2,
+    "dailyStats": [
+      {
+        "date": "2026-05-10",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-11",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4000",
+    "title": "女神 4000 &#8211; 無際之境",
+    "contestId": "1647",
+    "totalOriginal": 2,
+    "finalValid": 2,
+    "dailyStats": [
+      {
+        "date": "2026-05-11",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-25",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4006",
+    "title": "男神 4006 &#8211; 熱鍋上的螞蟻",
+    "contestId": "1785",
+    "totalOriginal": 2,
+    "finalValid": 2,
+    "dailyStats": [
+      {
+        "date": "2026-05-11",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-05-21",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4169",
+    "title": "女神 4169 &#8211; 馬代女神降臨",
+    "contestId": "1647",
+    "totalOriginal": 2,
+    "finalValid": 2,
+    "dailyStats": [
+      {
+        "date": "2026-06-01",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-08",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4172",
+    "title": "男神 4172 &#8211; 馬甲甲",
+    "contestId": "1785",
+    "totalOriginal": 2,
+    "finalValid": 2,
+    "dailyStats": [
+      {
+        "date": "2026-06-01",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-03",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4195",
+    "title": "女神 4195 &#8211; 美人與夕陽海",
+    "contestId": "1647",
+    "totalOriginal": 2,
+    "finalValid": 2,
+    "dailyStats": [
+      {
+        "date": "2026-06-02",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-03",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4210",
+    "title": "女神 4210 &#8211; 遠望小船",
+    "contestId": "1647",
+    "totalOriginal": 2,
+    "finalValid": 2,
+    "dailyStats": [
+      {
+        "date": "2026-06-02",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-04",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4218",
+    "title": "男神 4218 &#8211; Chill一杯Cola",
+    "contestId": "1785",
+    "totalOriginal": 2,
+    "finalValid": 2,
+    "dailyStats": [
+      {
+        "date": "2026-06-06",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4221",
+    "title": "女神 4221 &#8211; 泡在快樂裡🫧",
+    "contestId": "1647",
+    "totalOriginal": 2,
+    "finalValid": 2,
+    "dailyStats": [
+      {
+        "date": "2026-06-06",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4300",
+    "title": "男神 4300 &#8211; 鳳梨屁屁",
+    "contestId": "1785",
+    "totalOriginal": 2,
+    "finalValid": 2,
+    "dailyStats": [
+      {
+        "date": "2026-06-09",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-10",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4309",
+    "title": "女神 4309 &#8211; 陽光海洋女神～玩轉藍海",
+    "contestId": "1647",
+    "totalOriginal": 2,
+    "finalValid": 2,
+    "dailyStats": [
+      {
+        "date": "2026-06-08",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      },
+      {
+        "date": "2026-06-09",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4345",
+    "title": "女神 4345 &#8211; 海水好藍",
+    "contestId": "1647",
+    "totalOriginal": 2,
+    "finalValid": 2,
+    "dailyStats": [
+      {
+        "date": "2026-06-10",
+        "originalCount": 2,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "3831",
+    "title": "男神 3831 &#8211; 有些事情不用在乎，例如裸體的馬爾地夫。 #來個雙押yo",
+    "contestId": "1785",
+    "totalOriginal": 1,
+    "finalValid": 1,
+    "dailyStats": [
+      {
+        "date": "2026-05-08",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "3840",
+    "title": "男神 3840 &#8211; Look my eyes",
+    "contestId": "1785",
+    "totalOriginal": 1,
+    "finalValid": 1,
+    "dailyStats": [
+      {
+        "date": "2026-05-25",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "3843",
+    "title": "女神 3843 &#8211; 小綿羊",
+    "contestId": "1647",
+    "totalOriginal": 1,
+    "finalValid": 1,
+    "dailyStats": [
+      {
+        "date": "2026-05-28",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "3879",
+    "title": "",
+    "contestId": "1785",
+    "totalOriginal": 1,
+    "finalValid": 1,
+    "dailyStats": [
+      {
+        "date": "2026-05-08",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "3891",
+    "title": "男神 3891 &#8211; 光屁屁外星人",
+    "contestId": "1785",
+    "totalOriginal": 1,
+    "finalValid": 1,
+    "dailyStats": [
+      {
+        "date": "2026-05-28",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "3911",
+    "title": "男神 3911 &#8211; 數隻數隻、最多五隻，疑！怎麼多了一隻",
+    "contestId": "1785",
+    "totalOriginal": 1,
+    "finalValid": 1,
+    "dailyStats": [
+      {
+        "date": "2026-05-08",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "3938",
+    "title": "女神 3938 &#8211; 美好的回憶",
+    "contestId": "1647",
+    "totalOriginal": 1,
+    "finalValid": 1,
+    "dailyStats": [
+      {
+        "date": "2026-05-26",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "3950",
+    "title": "男神 3950 &#8211; 海洋陽光與我",
+    "contestId": "1785",
+    "totalOriginal": 1,
+    "finalValid": 1,
+    "dailyStats": [
+      {
+        "date": "2026-05-10",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "3970",
+    "title": "男神 3970 &#8211; 蒼鷺與少年",
+    "contestId": "1785",
+    "totalOriginal": 1,
+    "finalValid": 1,
+    "dailyStats": [
+      {
+        "date": "2026-05-10",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4021",
+    "title": "女神 4021 &#8211; 自由💚",
+    "contestId": "1647",
+    "totalOriginal": 1,
+    "finalValid": 1,
+    "dailyStats": [
+      {
+        "date": "2026-05-20",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4030",
+    "title": "女神 4030 &#8211; 潮汐停在窗前",
+    "contestId": "1647",
+    "totalOriginal": 1,
+    "finalValid": 1,
+    "dailyStats": [
+      {
+        "date": "2026-05-15",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4033",
+    "title": "男神 4033 &#8211; 抽雪茄嗎😏",
+    "contestId": "1785",
+    "totalOriginal": 1,
+    "finalValid": 1,
+    "dailyStats": [
+      {
+        "date": "2026-05-15",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4051",
+    "title": "男神 4051 &#8211; 辣隔一葉致富的男人",
+    "contestId": "1785",
+    "totalOriginal": 1,
+    "finalValid": 1,
+    "dailyStats": [
+      {
+        "date": "2026-05-14",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4058",
+    "title": "男神 4058 &#8211; Hight 到飛起來",
+    "contestId": "1785",
+    "totalOriginal": 1,
+    "finalValid": 1,
+    "dailyStats": [
+      {
+        "date": "2026-05-16",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4064",
+    "title": "男神 4064 &#8211; 逃離地球表面",
+    "contestId": "1785",
+    "totalOriginal": 1,
+    "finalValid": 1,
+    "dailyStats": [
+      {
+        "date": "2026-05-27",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4075",
+    "title": "女神 4075 &#8211; 陽光燦爛美麗",
+    "contestId": "1647",
+    "totalOriginal": 1,
+    "finalValid": 1,
+    "dailyStats": [
+      {
+        "date": "2026-05-19",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4078",
+    "title": "男神 4078 &#8211; 熱情的太陽～清澈蔚藍的海洋～真的愛了😍",
+    "contestId": "1785",
+    "totalOriginal": 1,
+    "finalValid": 1,
+    "dailyStats": [
+      {
+        "date": "2026-05-19",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4084",
+    "title": "男神 4084 &#8211; 我舉起了馬爾地夫",
+    "contestId": "1785",
+    "totalOriginal": 1,
+    "finalValid": 1,
+    "dailyStats": [
+      {
+        "date": "2026-05-19",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4087",
+    "title": "男神 4087 &#8211; 泡水的白饅頭",
+    "contestId": "1785",
+    "totalOriginal": 1,
+    "finalValid": 1,
+    "dailyStats": [
+      {
+        "date": "2026-05-20",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4095",
+    "title": "男神 4095 &#8211; 我要成為海賊王～",
+    "contestId": "1785",
+    "totalOriginal": 1,
+    "finalValid": 1,
+    "dailyStats": [
+      {
+        "date": "2026-05-20",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4136",
+    "title": "男神 4136 &#8211; 坦蕩之境",
+    "contestId": "1785",
+    "totalOriginal": 1,
+    "finalValid": 1,
+    "dailyStats": [
+      {
+        "date": "2026-05-27",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4142",
+    "title": "女神 4142 &#8211; 帶著baby游馬爾地夫🌊",
+    "contestId": "1647",
+    "totalOriginal": 1,
+    "finalValid": 1,
+    "dailyStats": [
+      {
+        "date": "2026-05-27",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4151",
+    "title": "男神 4151 &#8211; 陽光男孩",
+    "contestId": "1785",
+    "totalOriginal": 1,
+    "finalValid": 1,
+    "dailyStats": [
+      {
+        "date": "2026-05-28",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4160",
+    "title": "女神 4160 &#8211; 我的PAI餐標=HB+泡麵",
+    "contestId": "1647",
+    "totalOriginal": 1,
+    "finalValid": 1,
+    "dailyStats": [
+      {
+        "date": "2026-06-01",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4166",
+    "title": "男神 4166 &#8211; 反轉人蔘",
+    "contestId": "1785",
+    "totalOriginal": 1,
+    "finalValid": 1,
+    "dailyStats": [
+      {
+        "date": "2026-06-01",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4182",
+    "title": "男神 4182 &#8211; HoneyM@@n",
+    "contestId": "1785",
+    "totalOriginal": 1,
+    "finalValid": 1,
+    "dailyStats": [
+      {
+        "date": "2026-06-03",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4224",
+    "title": "男神 4224 &#8211; 露屁屁外星人",
+    "contestId": "1785",
+    "totalOriginal": 1,
+    "finalValid": 1,
+    "dailyStats": [
+      {
+        "date": "2026-06-05",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4230",
+    "title": "男神 4230 &#8211; 馬爾地夫屁桃奇遇記",
+    "contestId": "1785",
+    "totalOriginal": 1,
+    "finalValid": 1,
+    "dailyStats": [
+      {
+        "date": "2026-06-05",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4257",
+    "title": "女神 4257 &#8211; 最接近天堂的浴缸❤️",
+    "contestId": "1647",
+    "totalOriginal": 1,
+    "finalValid": 1,
+    "dailyStats": [
+      {
+        "date": "2026-06-06",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4263",
+    "title": "男神 4263 &#8211; 這樣Tie 危險",
+    "contestId": "1785",
+    "totalOriginal": 1,
+    "finalValid": 1,
+    "dailyStats": [
+      {
+        "date": "2026-06-10",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4269",
+    "title": "男神 4269 &#8211; 我媽都沒看過我這麼自信",
+    "contestId": "1785",
+    "totalOriginal": 1,
+    "finalValid": 1,
+    "dailyStats": [
+      {
+        "date": "2026-06-06",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4275",
+    "title": "女神 4275 &#8211; 海天一色X無邊際泳池之我是那個X",
+    "contestId": "1647",
+    "totalOriginal": 1,
+    "finalValid": 1,
+    "dailyStats": [
+      {
+        "date": "2026-06-08",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4278",
+    "title": "男神 4278 &#8211; 印度洋上的浮屍",
+    "contestId": "1785",
+    "totalOriginal": 1,
+    "finalValid": 1,
+    "dailyStats": [
+      {
+        "date": "2026-06-08",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4297",
+    "title": "男神 4297 &#8211; 大海屁屁",
+    "contestId": "1785",
+    "totalOriginal": 1,
+    "finalValid": 1,
+    "dailyStats": [
+      {
+        "date": "2026-06-08",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4312",
+    "title": "女神 4312 &#8211; 日出海景",
+    "contestId": "1647",
+    "totalOriginal": 1,
+    "finalValid": 1,
+    "dailyStats": [
+      {
+        "date": "2026-06-10",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4318",
+    "title": "男神 4318 &#8211; 劫後餘生",
+    "contestId": "1785",
+    "totalOriginal": 1,
+    "finalValid": 1,
+    "dailyStats": [
+      {
+        "date": "2026-06-09",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4321",
+    "title": "女神 4321 &#8211; 整個房間都是我的伸展台🌶️",
+    "contestId": "1647",
+    "totalOriginal": 1,
+    "finalValid": 1,
+    "dailyStats": [
+      {
+        "date": "2026-06-09",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4332",
+    "title": "男神 4332 &#8211; 社畜的偉大航道",
+    "contestId": "1785",
+    "totalOriginal": 1,
+    "finalValid": 1,
+    "dailyStats": [
+      {
+        "date": "2026-06-10",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4335",
+    "title": "女神 4335 &#8211; 帆船與人",
+    "contestId": "1647",
+    "totalOriginal": 1,
+    "finalValid": 1,
+    "dailyStats": [
+      {
+        "date": "2026-06-10",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4338",
+    "title": "女神 4338 &#8211; 每一年都要來屎蛋這露一露潔白的屁股蛋",
+    "contestId": "1647",
+    "totalOriginal": 1,
+    "finalValid": 1,
+    "dailyStats": [
+      {
+        "date": "2026-06-09",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4348",
+    "title": "男神 4348 &#8211; 太陽好大",
+    "contestId": "1785",
+    "totalOriginal": 1,
+    "finalValid": 1,
+    "dailyStats": [
+      {
+        "date": "2026-06-10",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4351",
+    "title": "男神 4351 &#8211; 擁抱海天一色",
+    "contestId": "1785",
+    "totalOriginal": 1,
+    "finalValid": 1,
+    "dailyStats": [
+      {
+        "date": "2026-06-10",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4375",
+    "title": "女神 4375 &#8211; 陽光、沙灘、沒有比基尼",
+    "contestId": "1647",
+    "totalOriginal": 1,
+    "finalValid": 1,
+    "dailyStats": [
+      {
+        "date": "2026-06-10",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4384",
+    "title": "男神 4384 &#8211; 陽光裸男",
+    "contestId": "1785",
+    "totalOriginal": 1,
+    "finalValid": 1,
+    "dailyStats": [
+      {
+        "date": "2026-06-10",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4387",
+    "title": "男神 4387 &#8211; 露屁元氣彈！",
+    "contestId": "1785",
+    "totalOriginal": 1,
+    "finalValid": 1,
+    "dailyStats": [
+      {
+        "date": "2026-06-10",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  },
+  {
+    "id": "4405",
+    "title": "女神 4405 &#8211; 水屋大解放給對面島嶼的觀眾",
+    "contestId": "1647",
+    "totalOriginal": 1,
+    "finalValid": 1,
+    "dailyStats": [
+      {
+        "date": "2026-06-10",
+        "originalCount": 1,
+        "ipDeducted": 0,
+        "emailDeducted": 0,
+        "invalidEmails": [],
+        "ipDetails": {}
+      }
+    ]
+  }
+]
