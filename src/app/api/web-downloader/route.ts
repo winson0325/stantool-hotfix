@@ -81,11 +81,11 @@ export async function POST(req: Request) {
               zip.file(zipFilename, buffer);
 
               // 2. Add to docBoth (convert if needed)
-              let finalImageBuffer = buffer;
+              let finalImageBuffer: any = buffer;
               try {
                 const metadata = await sharp(buffer).metadata();
                 if (metadata.format === 'webp' || !['jpeg', 'png'].includes(metadata.format || '')) {
-                   finalImageBuffer = await sharp(buffer).png().toBuffer();
+                   finalImageBuffer = (await sharp(buffer).png().toBuffer()) as any;
                 }
                 
                 const width = 400;
